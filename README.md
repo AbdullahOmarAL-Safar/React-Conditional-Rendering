@@ -41,14 +41,17 @@ Edit
 
 ## 💻 Demo
 
-```jsx
 <UserGreeting isLoggedIn={true} userName="Abdullah" />
 ✅ Output: Welcome Abdullah
 
-jsx
-Copy
-Edit
+
 <UserGreeting isLoggedIn={false} userName="Abdullah" />
 ❌ Output: Please Log in To Continue
 
-```
+
+[## 👨‍💻 Author
+
+**Abdullah Omar Akram AL-Safar**  
+📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
+📬 [Email](mailto:abodyalsafar2009@gmail.com)]
